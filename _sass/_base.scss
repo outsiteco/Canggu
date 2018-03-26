@@ -43,11 +43,10 @@ ul, ol, dl, figure,
  * Images
  */
 img {
-  max-width: 100%;
-  vertical-align: middle;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
 }
-
-
 
 /**
  * Figures
