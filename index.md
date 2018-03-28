@@ -11,7 +11,6 @@ Whether you are new to Bali or back for another visit there are plenty of new su
 * Stijn Beauprez
 * Allie Aitken
 * Khuram Aziz
-* Lorenzo Liverani
 * Nicole Fu
 * Rebecca Males
 * Robert Crocker
