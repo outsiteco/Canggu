@@ -1,12 +1,22 @@
 ---
-title: Work
+title: WORK
 nav: true
 ---
 
-## House Information
+# House Information
 WiFi
 Username: outsite
 Password: livedifferently
+
+## Domestic Shipment
+OUTSITE Bali
+Jalan Pantai Batubolong, Canggu
+(Sebelum Coco Mart / kolam renang Segara Madu, kiri jalan)
+
+## International Shipment
+OUTSITE Bali
+Jalan Pantai Batubolong, Canggu
+Kuta Utara, Badung Bali-80361, Indonesia
 
 # Call Space
 There may be times when you would rather not be bothered by others at the community table, don't want to be the one bothering other or just want to have a private conversation with your clients or colleagues.

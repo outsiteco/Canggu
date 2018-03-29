@@ -5,40 +5,79 @@ title: Home
 # Welcome to your new home in Bali
 We are located at 49 Jalan Pantai Batubolong, Canggu, Kuta Utara, Kabupaten Badung, Bali 80361
 
-Whether you are new to Bali or back for another visit there are plenty of new suprises in store. Outsite seeks to help you assimilate to the culture and community of digital nomads in Canggu as quickly as possible.
+Whether you are new to Bali or back for another visit there are plenty of new suprises in store.
+
+Outsite aims to help you assimilate to the culture and community of digital nomads in Canggu as quickly as possible so you feel settled rather than stressed.
 
 ## Current Guests
-* Stijn Beauprez
 * Allie Aitken
+* Erin Ross
 * Khuram Aziz
 * Nicole Fu
 * Rebecca Males
 * Robert Crocker
+* Stijn Beauprez
 
-# What you should know about the property
+## Looking to have a package delivered?
+### Domestic Shipment
+OUTSITE Bali
+Jalan Pantai Batubolong, Canggu
+(Sebelum Coco Mart / kolam renang Segara Madu, kiri jalan)
 
-## Our Staff
-First off, the staff here are all rockstarts. They will be doing a number of things every day to ensure you are happy and that grounds are well kept.
+### International Shipment
+OUTSITE Bali
+Jalan Pantai Batubolong, Canggu
+Kuta Utara, Badung Bali-80361, Indonesia
 
-You room will be refreshed at least every three days. If you would like a more frequent cleaning they will happily accomodate.
-
-If you see them approaching you with a clipboard, they aren't taking attendance. No, they just need your breakfast order before 7pm, so they have the information they need to when they go to gather your groceries early in the morning.
-
-Living in Bali means we have mossies to deal with. Put it on your calendar the Fumigation goes down every Tuesday from 2pm to 3pm. Unless you want to hangout in a cloud of cemicals you'll want to make plans to be else where during this time.
+# Important Information
 
 ## House Rules
-1. No Noise After 10:00 PM. You must not create excessive noise at a level that disturbs other guests; code-enforced quiet hours start at 10:00 PM. 
-2. Smoking is not allowed on the property. Please walk down the street and smoke far away from the property.
-3. No extra guests allowed. People other than those in your confirmed party may not visit or stay overnight on the rental property without prior authorization. You must not exceed the occupancy limit associated with your reservation or a fee will be assessed per extra guest per day/night.
-4. Please maintain the space orderly and clean. Common areas are professionally cleaned once a week, but there is no daily housekeeping service. We provide a  courtesy room cleaning per request.
-5. Please turn off all lights and appliances and lock all doors and windows on your way out. 
-6. Pets are not allowed inside the space without prior authorization
-7. Vehicles are to be parked in designated parking areas only. Any illegally parked cars are subject to towing; applicable fines/towing fees are the sole responsibility of the vehicle owner. 
-8. Any garbage must be placed in the proper garbage or recycling receptacle.
+1. You must not create noise that disturbs other guests; code-enforced quiet hours start at **10:00 PM**. 
+2. Smoking is not allowed on the property. Walk outside the gate if you have to take a pull.
+3. No extra guests allowed. People other than those in your confirmed party may not visit or stay overnight on the rental property without prior authorization.
+4. You must not exceed the occupancy limit associated with your reservation or a fee will be assessed per extra guest per day/night.
+5. Please keep the space nice and neat. It is shared.
+6. Please turn off all lights and appliances and lock all doors and windows on your way out. 
+7. Pets are not allowed inside the space without prior authorization
+8. Bikes are to be parked in designated parking areas only. Applicable fines/towing fees or issues are the sole responsibility of the vehicle owner. 
+9. Any garbage must be placed in the proper garbage or recycling receptacle.
 
 ## Pool Rules
 1. Open from 7:00 AM to 10:00 PM.
-2. Always shower before entering the pool.  
-3. It is not allowed to eat or drink inside the pool.  
-4. Do not use glass bottles or any glass containers in the pool area.  
+2. Always shower before entering the pool.
+3. It is not allowed to eat or drink inside the pool.
+4. Do not use glass bottles or any glass containers in the pool area.
 5. No one under the age of 21 allowed without adult supervision.
+
+# In Case of an Emergency
+
+## Emergency Numbers in Indonesia
+* Police - General Emergencies - Tel: 110 / 112 (SMS 1717)
+* Ambulance and Rescue - Tel: 118
+* Fire - Tel: 113
+* Medical Emergencies - Tel: 119
+* Tourist Police (Bali) - Tel: (0361) 754 599 / (0361) 224 111
+
+## Emergency words and terminology
+* Accident = Kecelakaan
+* I have had an accident = Saya mengalami kecelakaan
+* Injured = Terluka
+* Unconscious = Pingsan / tidak sadar
+* Bleeding = Berdarah
+* Heart attack = Serangan jantung
+* Stroke = Stroke
+* Drowning = Tenggelam
+* Burn = Terbakar
+* Very sick = Sangat sakit
+* In labour/having contractions = Mau melahirkan / ada kontraksi
+* I am in labour = Saya dalam persalinan
+* Need a doctor = Butuh seorang dokter
+* Need an ambulance = Butuh sebuah ambulan
+* Fire = Kebakaran
+* The house is on fire = Rumah terbakar
+* The car is on fire = Mobil terbakar
+* I am being burgled = Saya di rampok
+* Someone is in the house = Seseorang didalam rumah
+* Emergency = Emergensi
+* Help me = Tolong saya
+* Help! = Tolong
